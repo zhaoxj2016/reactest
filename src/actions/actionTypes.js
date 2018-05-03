@@ -1,0 +1,1 @@
+export const COUNC_TYPE = 'COUNC_TYPE';
